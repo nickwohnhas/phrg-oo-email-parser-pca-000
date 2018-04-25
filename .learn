@@ -6,3 +6,5 @@ tags:
 languages:
   - ruby
 resources: 2
+
+parent_template: git@github.com:learn-co-curriculum/oo-email-parser.git
